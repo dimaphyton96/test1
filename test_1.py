@@ -25,3 +25,9 @@ while number != 0:
 
 print(result_str + ' = ' + str(result))
 
+while True:
+    comand = input('Введите операцию: ')
+    if comand in '+-*/':
+        break
+    print('Ошибка, такой операции не существует. Попробуйте еще раз!')
+
