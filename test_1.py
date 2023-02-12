@@ -2,7 +2,7 @@ a = 9
 b = 2
 print(a * b)
 
-
+some changes in new branch2
 
 
 <<<<<<< HEAD
